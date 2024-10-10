@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeIntro</string>
+    <string name="title_activity_state_management">StateManagementActivity</string>
+</resources>
